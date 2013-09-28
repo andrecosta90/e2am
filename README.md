@@ -21,6 +21,8 @@ A parte agressiva do software (a "espada") usaria o mesmo mecanismo de mineraç�
 
 **Como contribuir:** Garfe o repositório, entre em contato via [e-mail][mail], mande um sinal de fumaça. Para que tudo dê certo precisaremos de uma base sólida de matemática (estatística e probabilidade), uma programação limpa e possíveis interfaces gráficas. Preciso pensar também em qual seria o melhor canal de comunicação para trocar ideias. Se fórum no Google Groups, outro tipo de mailing list, IRC... sugestões?
 
+**Links:** Ainda não li tudo, mas estou tentando separar o material de pesquisa [neste pad][ppad]. Se quiser adicionar links, fique à vontade.
+
 Se achou o projeto interessante, me conte. Vamos conversar e fazer ele acontecer.
 
 [foss]: http://www.gnu.org/philosophy/free-sw.html
@@ -35,3 +37,4 @@ Se achou o projeto interessante, me conte. Vamos conversar e fazer ele acontecer
 [json]: http://www.json.org/
 [gpl3]: http://gplv3.fsf.org/
 [mail]: mailto:contato@bbenatti.com.br
+[ppad]: http://piratepad.net/LMnBJoMRuI
